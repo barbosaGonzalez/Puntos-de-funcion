@@ -1,0 +1,18 @@
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto_de_funcion.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto_de_funcion.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\bin\Debug\Punto de funcion.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto_de_funcion.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto_de_funcion.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Punto de funcion\Punto de funcion\obj\Debug\Punto de funcion.csproj.GenerateResource.Cache
